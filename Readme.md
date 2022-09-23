@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Denis Solodkiy](https://up.htmlacademy.ru/htmlcss/35/user/2232349).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Рахманов](https://htmlacademy.ru/profile/id1150187)
 
 ---
 
